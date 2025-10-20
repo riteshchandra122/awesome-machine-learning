@@ -309,7 +309,7 @@ Further resources:
 ## Clojure
 
 <a name="clojure-natural-language-processing"></a>
-#### Natural Language Processing(NLP)
+#### Natural Language Processing
 
 * [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp).
 * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
